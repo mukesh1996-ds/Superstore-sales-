@@ -4,4 +4,4 @@ Retail dataset of a global superstore for 4 years. Perform Dashboard and Predict
 
 ## Report look like this 
 
-![image](D:\Final submission\PowerBI\Superstore-sales-\Screen Shorts\Screenshot 2022-07-15 153300)
+![image]https://github.com/mukesh1996-ds/Superstore-sales-/blob/main/Screen%20Shorts/Screenshot%202022-07-15%20153300.png)
